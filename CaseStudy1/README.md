@@ -1,1 +1,1 @@
-# QTW
+In this case study, researchers are going to build a simple regression model to predict temperature that makes new superconductors become superconductors. Superconductors are materials that give little or no resistance to electrical current. So this is of pretty big importance to the scientific community.
