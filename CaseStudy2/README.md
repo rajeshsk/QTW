@@ -1,0 +1,1 @@
+In this case study, we are going to work on diabetes dataset.
